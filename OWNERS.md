@@ -8,3 +8,4 @@ maintainers:
 - milas
 - laurazard
 - aevesdocker
+- jhrotko
